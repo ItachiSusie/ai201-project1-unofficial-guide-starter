@@ -1,0 +1,80 @@
+PROFESSOR: Kaan Onarlioglu
+DEPARTMENT: Computer Science
+SCHOOL: Northeastern University
+SOURCE: Rate My Professors https://www.ratemyprofessors.com/professor/2338287
+
+SUMMARY
+Overall Quality: 4.9 / 5 (based on 107 ratings)
+Would Take Again: 93%
+Level of Difficulty: 3.7 / 5
+NOTE: This file contains a representative sample of reviews; the summary above are the site-wide aggregate, not an average of the reviews below.
+
+
+STUDENT REVIEWS
+
+[Review 1] Course: CY3740 | Quality: 5.0 | Difficulty: 5.0 | Date: Jun 3, 2026
+For Credit: Yes | Would Take Again: Yes | Grade: A
+Tags: Amazing lectures, Hilarious, Caring
+By far my favorite professor I've had at NEU. Funny and engaging even for boring topics.
+Learnt a lot in this class about various aspects of security and would take him again for
+every class he taught (if he taught anything other than CY3740).
+
+[Review 2] Course: CY3740 | Quality: 3.0 | Difficulty: 3.0 | Date: Apr 18, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: A+
+It's definitely (A+)-able class. Definitely do the challenges early, I mean right when he
+posts. Spam him stuff. You need some previous knowledge to take this class or else it'll
+be difficult. That's all I can say.
+
+[Review 3] Course: CY3740 | Quality: 5.0 | Difficulty: 4.0 | Date: Apr 17, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Amazing lectures, Lots of homework, Accessible outside class
+Professor Kaan is the best Professor I've had at Northeastern. He is beyond knowledgeable
+in his field and wants you to learn so that you are prepared to enter the industry. He is
+a no "BS" type of teacher and calls out industry standards that are questionable or could
+be improved. If you want to go into cybersecurity you must take this class.
+
+[Review 4] Course: CY3740 | Quality: 4.0 | Difficulty: 4.0 | Date: Apr 14, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: A
+It's hard, but I don't have anything bad to say about this class.
+
+[Review 5] Course: CY3740 | Quality: 5.0 | Difficulty: 4.0 | Date: Apr 14, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Extra credit, Amazing lectures
+Great lectures, challenging but rewarding homeworks, lots of (difficult but doable) extra
+credit opportunities.
+
+[Review 6] Course: CY3740 | Quality: 5.0 | Difficulty: 4.0 | Date: Apr 13, 2026
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes
+Kaan has made CY3740 without a doubt the best class I've taken at Northeastern. His
+lectures are fun and engaging and I always looked forward to working on the challenges.
+The class was difficult, but fair. People rating him below 5 stars clearly did not pay
+attention or seek any help out from the TA's. HW always built on what was in the lecture.
+
+[Review 7] Course: CY3740 | Quality: 4.0 | Difficulty: 4.0 | Date: Apr 10, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: A-
+Tags: Respected, Lecture heavy, Test heavy
+He is kind and approachable, but his class is definitely challenging in multiple ways.
+The lectures are solid and engaging, even if the material can be difficult at times.
+
+[Review 8] Course: CY3740 | Quality: 3.0 | Difficulty: 4.0 | Date: Apr 10, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: A
+Tags: Lots of homework, Lecture heavy, Test heavy
+The challenges were hard, not surprised about that at all. You just go through it, that's
+how life is. The slides during class instruction were good, but made me think all
+throughout the place. I don't know how to really fully comment this class. It's strange,
+but kind of normal. Yes, it's on Thursday night. Could be a con to readers of this review.
+
+[Review 9] Course: CY3740 | Quality: 5.0 | Difficulty: 3.0 | Date: Apr 10, 2026
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A
+Extremely knowledgeable and well spoken professor. The challenges required understanding
+of the material and significant thought but were still doable and allowed for hands on
+learning. Kaan has clearly spent ample time and energy to get the course to be what it is.
+Would recommend.
+
+[Review 10] Course: CY3740 | Quality: 5.0 | Difficulty: 4.0 | Date: Apr 10, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes
+Tags: Extra credit, Gives good feedback, Accessible outside class
+Great professor. Lectures were engaging and the assignment structure made the course
+pretty fun. He was very responsive on Piazza whenever I asked questions and provided
+helpful feedback. I learned a lot and found the content very valuable. Would definitely
+recommend both this course and Kaan as a professor.

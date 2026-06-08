@@ -1,0 +1,73 @@
+PROFESSOR: Eric Gerber
+DEPARTMENT: Computer Science
+SCHOOL: Northeastern University
+SOURCE: Rate My Professors https://www.ratemyprofessors.com/professor/2837478
+
+SUMMARY
+Overall Quality: 5.0 / 5 (based on 9 ratings)
+Would Take Again: 100%
+Level of Difficulty: 3.0 / 5
+NOTE: This file contains a representative sample of reviews; the summary above are the site-wide aggregate, not an average of the reviews below.
+
+
+STUDENT REVIEWS
+
+[Review 1] Course: DS4420 | Quality: 5.0 | Difficulty: 3.0 | Date: Apr 16, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Amazing lectures, Clear grading criteria, Gives good feedback
+Professor Gerber is one of the best professors I've ever had on the DS track. He taught his
+classes very well and explained some of the toughest ML concepts so clearly that I didn't
+really need to do much studying outside of class. Make sure to attend the lectures, he
+takes time to answer questions. Showing up does most of the work for you.
+
+[Review 2] Course: DS3000 | Quality: 5.0 | Difficulty: 4.0 | Date: Feb 25, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A+
+Tags: Extra credit, Caring, Accessible outside class
+Took DS4420 w/ Gerber, NOT EASY, we did unfortunately have both a final and a final
+project, but he graded fair, was actually pretty lenient on the final exam (deserved a 30
+and got a 75), and overall a great lecturer. Also provides study materials, slides nicely
+organized, everything posted in Canvas, and excessive amounts of EC on hw & labs.
+
+[Review 3] Course: DS3000 | Quality: 5.0 | Difficulty: 2.0 | Date: Nov 24, 2025
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A
+Tags: Group projects, Hilarious, Accessible outside class
+GOAT! His lectures are extremely useful for the homeworks and is overall a very nice
+professor.
+
+[Review 4] Course: DS3000 | Quality: 5.0 | Difficulty: 3.0 | Date: Nov 13, 2025
+For Credit: Yes | Would Take Again: Yes | Grade: A+
+Really good professor. I really liked the way he teaches and he cares about students as
+well.
+
+[Review 5] Course: DS3000 | Quality: 5.0 | Difficulty: 3.0 | Date: Apr 27, 2025
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Group projects, Amazing lectures, Caring
+Dr. Eric Gerber cares about students. If you can go to his each lecture, I believe you can
+get an A and don't worry about the final.
+
+[Review 6] Course: DS3000 | Quality: 5.0 | Difficulty: 3.0 | Date: Apr 27, 2025
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Group projects, Amazing lectures, Caring
+He is caring of students! Don't worry about his DS4420, just follow his each lecture then
+you will be good in the final exam!
+
+[Review 7] Course: DS3000 | Quality: 5.0 | Difficulty: 3.0 | Date: Mar 10, 2025
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Rather not say
+Tags: Gives good feedback, Caring, Respected
+Shoutout Gerber.
+
+[Review 8] Course: DS3000 | Quality: 5.0 | Difficulty: 3.0 | Date: Nov 18, 2022
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A+
+Tags: Gives good feedback, Caring, Respected
+Professor Gerber is one of the most dedicated and passionate professors I've had at
+Northeastern University. Each lecture & its respective material are meticulously thought-out
+and display the high level of knowledge that he possesses. I also very much appreciate the
+subtle jokes/wits he throws into the lectures. Great guy, great class.
+
+[Review 9] Course: DS3000 | Quality: 5.0 | Difficulty: 3.0 | Date: Nov 18, 2022
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A
+Tags: Group projects, Caring, Respected
+Gerb is an outstanding professor. I've never seen a prof put more time and effort into
+planning out lectures. He chooses super fun data to work with: Penguins, Sports, and even
+Overwatch. He was able to immediately give a fantastic answer to every question he was
+asked during class, clearly knows his stuff. Bonus points for being adorable.

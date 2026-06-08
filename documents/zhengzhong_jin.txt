@@ -1,0 +1,63 @@
+PROFESSOR: Zhengzhong Jin
+DEPARTMENT: Computer Science
+SCHOOL: Northeastern University
+SOURCE: Rate My Professors https://www.ratemyprofessors.com/professor/3143867
+
+SUMMARY
+Overall Quality: 4.9 / 5 (based on 8 ratings)
+Would Take Again: 100%
+Level of Difficulty: 3.9 / 5
+NOTE: This file contains a representative sample of reviews; the summary above are the site-wide aggregate, not an average of the reviews below.
+
+
+STUDENT REVIEWS
+
+[Review 1] Course: CS3800 | Quality: 5.0 | Difficulty: 5.0 | Date: May 29, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A-
+Tags: Respected, Test heavy, Graded by few things
+Go to class and be curious and you will get an A/A-. Loved this class and prof Jin is the
+goat.
+
+[Review 2] Course: CS3800 | Quality: 5.0 | Difficulty: 4.0 | Date: Apr 24, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Not sure yet
+Tags: Caring, Respected, Test heavy
+Difficult course but not that difficult if you put in the work. Prof. Jin is the goat.
+
+[Review 3] Course: CS3800 | Quality: 5.0 | Difficulty: 3.0 | Date: Apr 20, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Not sure yet
+Tags: Amazing lectures, Hilarious
+Very friendly and takes great care in making sure students understand the material.
+
+[Review 4] Course: CS3800 | Quality: 5.0 | Difficulty: 3.0 | Date: Mar 27, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Not sure yet
+Tags: Tough grader, Gives good feedback, Caring
+I got cooked in both midterms but he is still the goat.
+
+[Review 5] Course: CS3800 | Quality: 5.0 | Difficulty: 4.0 | Date: Mar 24, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Participation matters, Caring, Lecture heavy
+If you attend lectures regularly and ask for help on homework questions, you will do well
+in Professor Jin's class. He is friendly and always willing to answer questions on Piazza
+or in person. Tests can be challenging, but final letter grades may be curved to compensate
+for that. Participation can also boost your grade. Overall, great professor!
+
+[Review 6] Course: CS3800 | Quality: 5.0 | Difficulty: 3.0 | Date: Mar 23, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Not sure yet
+Tags: Tough grader, Caring
+The esteemed gentleman in question endeavours to take meticulous care that the entirety of
+one's comprehension be satisfactorily addressed.
+
+[Review 7] Course: CS3800 | Quality: 5.0 | Difficulty: 5.0 | Date: Dec 31, 2025
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: B+
+This class in my opinion was amazing. Professor Jin is by far one of the best professors
+I've had — his passion with respect to theory makes learning enjoyable. I would recommend
+that if you do not enjoy proofs as much, potentially stay away from this class, but overall
+Professor Jin makes it manageable and bearable. 10/10 if I could.
+
+[Review 8] Course: CS3800 | Quality: 4.0 | Difficulty: 4.0 | Date: Dec 5, 2025
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Lots of homework, Caring, Accessible outside class
+Tests are fair and the grading was very fair in my experience. Lectures are dry but Prof
+Jin was a nice guy and would take all the time you need to understand things. I think this
+was his second semester teaching and from what I heard previously he really has gotten his
+stuff together and is great now. A lot of time on HW though. Would take again!

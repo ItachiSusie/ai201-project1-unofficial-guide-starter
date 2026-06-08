@@ -1,0 +1,65 @@
+PROFESSOR: Alvaro Monge
+DEPARTMENT: Computer Science
+SCHOOL: Northeastern University
+SOURCE: Rate My Professors https://www.ratemyprofessors.com/professor/2757769
+
+SUMMARY
+Overall Quality: 1.1 / 5 (based on 8 ratings)
+Would Take Again: 0%
+Level of Difficulty: 4.9 / 5
+NOTE: This file contains a representative sample of reviews; the summary above are the site-wide aggregate, not an average of the reviews below.
+
+
+STUDENT REVIEWS
+
+[Review 1] Course: CS3200 | Quality: 1.0 | Difficulty: 5.0 | Date: Apr 16, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: F
+Tags: Tough grader, Lots of homework, So many papers
+Run as fast as u can.
+
+[Review 2] Course: CS5002 | Quality: 1.0 | Difficulty: 5.0 | Date: Apr 16, 2026
+Attendance: Mandatory | Grade: Rather not say
+CS5002 is extremely heavy and difficult to manage. It is hard to keep up with assignments
+while taking other courses.
+
+[Review 3] Course: CS5002 | Quality: 1.0 | Difficulty: 5.0 | Date: May 17, 2025
+For Credit: Yes | Attendance: Mandatory
+Tags: Tough grader, Lots of homework, Hilarious
+Trust me. Run as fast as you can, otherwise he will be a nightmare for your entire study
+time.
+
+[Review 4] Course: CS3200 | Quality: 2.0 | Difficulty: 5.0 | Date: May 2, 2025
+Attendance: Mandatory | Grade: A
+Tags: Tough grader, Get ready to read, Gives good feedback
+Monge's a smart man in database design. He gives constructive feedback on (most)
+assignments and seems to truly prioritize making students understand the why, essential
+qualities of any amazing professor. However, his ego makes him pretty damn insufferable.
+This, combined with mediocre teaching and high strictness, rid all fun from the class.
+
+[Review 5] Course: CS3200 | Quality: 1.0 | Difficulty: 5.0 | Date: Apr 30, 2025
+Attendance: Not Mandatory | Grade: Not sure yet
+Run!!!! ASAP.
+
+[Review 6] Course: CS3200 | Quality: 1.0 | Difficulty: 5.0 | Date: Apr 14, 2025
+For Credit: Yes | Attendance: Mandatory | Grade: B
+Tags: Tough grader, Get ready to read, Lecture heavy
+Extremely unclear about grading expectations on any assignment, doesn't teach content
+representatively compared to what actually shows up on exams, grading is very harsh, high
+ego, expects students to fill in the numerous gaps that he just chooses not to explain. Do
+not take his classes. Wait to take them with a diff prof.
+
+[Review 7] Course: CS5002 | Quality: 1.0 | Difficulty: 5.0 | Date: Apr 1, 2025
+For Credit: Yes | Attendance: Mandatory | Grade: C
+Tags: Tough grader, Test heavy
+A horrible professor and person overall. He is difficult to work with and has a very high
+ego. Do not take him. He is incredibly rude and oversteps frequently. Many students feel
+uncomfortable talking to him. He also doesn't know how to teach Discrete Structures and
+seems more confused than I am on the subject as a student.
+
+[Review 8] Course: CS5002 | Quality: 1.0 | Difficulty: 4.0 | Date: Dec 18, 2021
+For Credit: Yes | Attendance: Mandatory | Would Take Again: No | Grade: Not sure yet
+Tags: Test heavy, Tough grader
+He's simply the worst I've ever dealt with. Lectures were unhelpful to relate to questions
+on exams. Unhelpful and unclear with questions because he is not a subject expert in
+discrete math. No concern about progress of class while 2/3 of class failed the midterm.
+He's unreasonable, does not grade fairly even if it's not your fault if he dislikes you.

@@ -1,0 +1,40 @@
+PROFESSOR: Jonathan Bell
+DEPARTMENT: Computer Science
+SCHOOL: Northeastern University
+SOURCE: Rate My Professors https://www.ratemyprofessors.com/professor/2861725
+
+SUMMARY
+Overall Quality: 3.7 / 5 (based on 3 ratings)
+Would Take Again: 50%
+Level of Difficulty: 3.7 / 5
+NOTE: This file contains a representative sample of reviews; the summary above are the site-wide aggregate, not an average of the reviews below.
+
+
+STUDENT REVIEWS
+
+[Review 1] Course: CS3100 | Quality: 4.0 | Difficulty: 4.0 | Date: Jun 6, 2026
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes
+Tags: Group projects, Lots of homework, Online savvy
+Good lectures for 3100, but the class is super difficult. Group project work is *tough* if
+you don't get a good group. It is nice to be taught by the person who created Pawtograder,
+because he takes suggestions for features or improvements.
+
+[Review 2] Course: CS3100 | Quality: 3.0 | Difficulty: 5.0 | Date: Apr 22, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: B+
+Tags: Tough grader, Group projects, Amazing lectures
+Good lecture, extremely hard exams, and the final exam was very different than what he gave
+in the practice exam.
+
+[Review 3] Course: CS3100 | Quality: 3.0 | Difficulty: 4.0 | Date: Apr 22, 2026
+For Credit: Yes | Attendance: Mandatory
+I thought he was a good professor throughout the semester. His lectures are pretty
+engaging, and he's very knowledgeable, but the final exam was extremely unfair. The
+questions were extremely difficult and not similar at all to anything he gave us for
+practice.
+
+[Review 4] Course: CS4530 | Quality: 5.0 | Difficulty: 2.0 | Date: Dec 11, 2022
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A
+Tags: Group projects, Clear grading criteria, Accessible outside class
+By far the best professor to take Fundamentals of Software Engineering with. Much more
+reasonable in-class expectations than other professors during my semester, and super
+accessible for help outside of and during class. Highly recommend.

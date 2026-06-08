@@ -1,0 +1,109 @@
+PROFESSOR: Alden Jackson
+DEPARTMENT: Computer Science
+SCHOOL: Northeastern University
+SOURCE: Rate My Professors https://www.ratemyprofessors.com/professor/2443125
+
+SUMMARY
+Overall Quality: 4.5 / 5 (based on 13 ratings)
+Would Take Again: 85%
+Level of Difficulty: 3.1 / 5
+NOTE: This file contains a representative sample of reviews; the summary above are the site-wide aggregate, not an average of the reviews below.
+
+STUDENT REVIEWS
+
+[Review 1] Course: CS3650 | Quality: 5.0 | Difficulty: 2.0 | Date: Apr 14, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Not sure yet
+Tags: Amazing lectures, Clear grading criteria, Caring
+I took this class with NO previous knowledge of systems as an elective. In the end I
+learned so much. He is truly a great professor, he's very patient and responsive. The
+lectures are very interesting because his enthusiasm gives me energy in an early morning
+lecture. He makes a difficult subject easy. The assignments are group and only has 2 exams.
+
+[Review 2] Course: CS3650 | Quality: 5.0 | Difficulty: 3.0 | Date: Apr 10, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes
+Tags: Caring
+Professor Jackson clearly enjoys and cares about what he does. He always comes to class
+with a smile and enjoys talking to students about a variety of topics. Although the
+lectures can sometimes be boring, it is not his fault and I still feel that he conveys the
+information very well. He has been an amazing professor.
+
+[Review 3] Course: CS3650 | Quality: 5.0 | Difficulty: 2.0 | Date: Apr 9, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Amazing lectures
+Lectures are interesting, the quizzes are easy as long as you prepare.
+
+[Review 4] Course: CS4700 | Quality: 4.0 | Difficulty: 3.0 | Date: Dec 9, 2025
+For Credit: Yes | Attendance: Not Mandatory | Grade: Not sure yet
+Tags: Group projects, Lots of homework, Caring
+Jackson clearly really likes teaching and does a good job with lecturing, but the overall
+structure of the course makes it difficult to follow. The homeworks are graded quite
+harshly and take a while to complete, but make up a very small portion of our grade,
+meanwhile the projects are often only vaguely related to what's covered in class.
+
+[Review 5] Course: CS3700 | Quality: 4.0 | Difficulty: 5.0 | Date: Nov 20, 2025
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A-
+Tags: Tough grader, Lots of homework
+Kind and helpful professor, but lectures were dull. Not his fault, but it's hard to make
+the content he teaches interesting. Always available on Piazza for help, and responds fast.
+Not required to attend class, but there are weekly quizzes.
+
+[Review 6] Course: CS3650 | Quality: 5.0 | Difficulty: 3.0 | Date: Dec 4, 2024
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Amazing lectures
+Jackson does a great job at making a pretty difficult course accessible. He clearly likes
+what he teaches a lot. While there was quite a bit of homework, I always found that it was
+pretty engaging and I felt prepared to tackle it.
+
+[Review 7] Course: CS3650 | Quality: 5.0 | Difficulty: 2.0 | Date: Oct 28, 2024
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Amazing lectures, Clear grading criteria, Gives good feedback
+One of the best professors I've had. Loves his subject, loves teaching his subject. Very
+understanding of issues and extremely helpful if you have issues. Made a course that could
+easily be one of the hardest at Northeastern a very enjoyable experience.
+
+[Review 8] Course: CS3700 | Quality: 5.0 | Difficulty: 3.0 | Date: Apr 26, 2024
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Not sure yet
+Tags: Caring, Accessible outside class
+Professor Jackson is one of the best professors I have had throughout my time at
+Northeastern. He is very passionate and knowledgeable about what he teaches. He was always
+available for questions on homework and was very understanding when the class needed more
+time on a project. If you can take one of Prof. Jackson's classes, you definitely should!
+
+[Review 9] Course: CS3650 | Quality: 2.0 | Difficulty: 4.0 | Date: Oct 31, 2022
+For Credit: Yes | Attendance: Not Mandatory | Grade: Drop/Withdrawal
+I had an issue with my computer in week 3 where I was completely unable to run software
+necessary to complete the upcoming homework assignments. Prof Jackson could not figure out
+the issue I was having and instead of assisting further with an alternative solution, I was
+left with no option to progress forward other than drop. "Tough luck" he said.
+
+[Review 10] Course: CS5700 | Quality: 4.0 | Difficulty: 3.0 | Date: Jan 20, 2022
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Get ready to read, Group projects, Caring
+Pros: very passionate, lot of diverse experience from industry and government, will
+reconsider grades if you make a good argument and have been participating in class. HW and
+projects are straightforward and clear. Cons: takes forever to release and grade
+assignments, doesn't monitor his TAs well, very forgetful and needs reminders to do things.
+
+[Review 11] Course: CS5700 | Quality: 5.0 | Difficulty: 3.0 | Date: Nov 17, 2021
+For Credit: Yes | Would Take Again: Yes | Grade: B
+Tags: Get ready to read, Participation matters, Group projects
+Professor Jackson is super knowledgeable and clearly enjoys teaching. The class has 5
+projects, of which 4 are partner projects. Expect to teach yourself how to complete the
+projects as no coding is actually taught in lecture. Additionally, there are 2 paper
+readings each week. Only downside is how long it takes to get any grades back.
+
+[Review 12] Course: CS3700 | Quality: 5.0 | Difficulty: 3.0 | Date: Apr 13, 2021
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Rather not say
+Tags: Gives good feedback, Clear grading criteria, Caring
+Was blown away by Prof Jackson because he managed to make class engaging and interesting
+even though they were online lectures, and I really enjoy his friendly and lighthearted
+vibes. He is very understanding and the grading is extremely reasonable!! Would 110%
+recommend taking CS3700 with him :) Favorite class of the semester by a landslide.
+
+[Review 13] Course: CS3700 | Quality: 4.0 | Difficulty: 4.0 | Date: Apr 7, 2020
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Lots of homework, Accessible outside class, Group projects
+Prof Jackson is a really great professor for Networks if you're interested in the course
+and want to learn a lot of material. He has a ton of experience in the industry and you'll
+definitely come away with a lot of knowledge and an in depth understanding of networks
+after taking his class. The only problem is he is SO SLOW at grading.

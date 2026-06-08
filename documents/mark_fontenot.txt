@@ -1,0 +1,92 @@
+PROFESSOR: Mark Fontenot
+DEPARTMENT: Computer Science
+SCHOOL: Northeastern University
+SOURCE: Rate My Professors https://www.ratemyprofessors.com/professor/2868024
+
+SUMMARY
+Overall Quality: 2.8 / 5 (based on 88 ratings)
+Would Take Again: 49%
+Level of Difficulty: 3.2 / 5
+NOTE: This file contains a representative sample of reviews; the summary above are the site-wide aggregate, not an average of the reviews below.
+
+
+STUDENT REVIEWS
+
+[Review 1] Course: CS3200 | Quality: 5.0 | Difficulty: 3.0 | Date: May 1, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A-
+Tags: Extra credit, Group projects
+Dr. Fontenot is a great professor from my experience! No final exam. The two midterms
+fairly reflect the material (you can use a cheat sheet too). Lectures are engaging.
+Attendance isn't required but random days he'll take attendance for extra credit. Early
+homework submission gets you extra credit. Group project is heavy so choose your group
+wisely!
+
+[Review 2] Course: CS3200 | Quality: 3.0 | Difficulty: 1.0 | Date: Apr 27, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Extra credit, Group projects
+Easy class until the final project.
+
+[Review 3] Course: CS3200 | Quality: 4.0 | Difficulty: 2.0 | Date: Apr 25, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Extra credit, Group projects
+Class is free until the group project. HWs usually took 20 min and the slides for a 1 hr
+lecture could be read and understood in 10-15 min. Does not answer questions and ghosted
+someone on Slack asking about the final project.
+
+[Review 4] Course: CS3200 | Quality: 1.0 | Difficulty: 3.0 | Date: Apr 24, 2026
+For Credit: Yes | Attendance: Not Mandatory | Grade: A-
+Take the online section. The course content is extremely relevant, but he comes off
+unapproachable which reflects in the lack of participation in class. It's a bit frustrating
+with the side comments, ends class 30 minutes early, & often breezes through the lectures.
+Head TA's are helpful, but the quality with other TA's is often a miss.
+
+[Review 5] Course: CS3200 | Quality: 1.0 | Difficulty: 4.0 | Date: Apr 21, 2026
+For Credit: Yes | Attendance: Not Mandatory | Grade: A-
+Tags: Tough grader
+The homework for this class is fairly time consuming and does not really help with the
+exams. The exams are difficult but doable with studying and you're allowed 1/2 sheet of
+notes. 0 late submissions and the professor is fairly rude and does not appreciate
+questions. The final project is given very late and is time consuming so be prepared for it.
+
+[Review 6] Course: CS3200 | Quality: 3.0 | Difficulty: 3.0 | Date: Apr 21, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Extra credit, Group projects, Test heavy
+Good lectures, final project is a lot and kind of crammed, homework and project submissions
+were often posted last minute, but was a nice guy and seemed to care about his students.
+
+[Review 7] Course: CS3200 | Quality: 3.0 | Difficulty: 3.0 | Date: Apr 21, 2026
+For Credit: Yes | Attendance: Not Mandatory | Grade: B+
+Tags: Extra credit, Group projects
+The professor is actually pretty nice and cares that we learn, he gets snappy with people
+but it's usually for a valid reason. The TAs I dealt with were really condescending and not
+helpful at all and I was always scared to ask for help, and they usually post the
+submissions for HW and Projects really late. The project was fun and not too hard.
+
+[Review 8] Course: CS3200 | Quality: 3.0 | Difficulty: 2.0 | Date: Apr 20, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Participation matters, Extra credit, Group projects
+The class wasn't bad. I didn't pay attention in class and did fine. The slides and homework
+have all the information you need to perform well on the midterms. The final project is a
+lot and is heavily dependent on how good your groupmates are. Fontenot can be sassy, but if
+I were teaching a class full of freshmen, I would be too.
+
+[Review 9] Course: CS3500 | Quality: 3.0 | Difficulty: 3.0 | Date: Apr 18, 2026
+Tags: Online savvy
+I ended up doing well in the class, but it was a frustrating experience overall. Lectures
+often felt unclear, and it was hard to understand what would be important for exams. When I
+tried to ask questions, I didn't always feel like I got helpful clarification, which made
+it difficult to know how to prepare effectively.
+
+[Review 10] Course: CS3500 | Quality: 1.0 | Difficulty: 5.0 | Date: Apr 17, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: D
+Really disappointing class. The professor often seems impatient and unhelpful, making
+students uncomfortable speaking up. Lectures are confusing and lack structure, so most
+learning is done independently. Grading is unclear, feedback is minimal, and communication
+is poor. Overall, a frustrating and stressful experience.
+
+[Review 11] Course: DS4300 | Quality: 1.0 | Difficulty: 5.0 | Date: Apr 17, 2026
+Attendance: Mandatory | Grade: B
+Not a good experience. The professor feels unapproachable and often dismissive, which makes
+asking questions uncomfortable. Lectures are unclear and poorly structured, so most material
+has to be learned on your own. Grading lacks transparency, and communication is minimal.
+Overall, a stressful and frustrating class.

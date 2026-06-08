@@ -1,0 +1,69 @@
+PROFESSOR: Lucia Nunez
+DEPARTMENT: Computer Science
+SCHOOL: Northeastern University
+SOURCE: Rate My Professors https://www.ratemyprofessors.com/professor/2668761
+
+SUMMARY
+Overall Quality: 3.6 / 5 (based on 61 ratings)
+Would Take Again: 67%
+Level of Difficulty: 3.9 / 5
+NOTE: This file contains a representative sample of reviews; the summary above are the site-wide aggregate, not an average of the reviews below.
+
+
+
+STUDENT REVIEWS
+
+[Review 1] Course: CS3500 | Quality: 1.0 | Difficulty: 2.0 | Date: Jun 3, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: B+ 
+Tags: Tough grader, Participation matters, Group projects
+Canvas announcements for room changes posted within an hour of lecture. Labs are
+released on the day they are to be completed, and may be changed day of, leading to
+bugs and ambiguity without any extensions given to students. Unclear attendance
+requirement. Reasonable late assignment policy.
+
+[Review 2] Course: CS1802 | Quality: 5.0 | Difficulty: 2.0 | Date: Apr 26, 2026
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: Audit/No Grade
+Tags: Amazing lectures, Hilarious, Caring
+This professor is the sole reason I did well in 1800. Everything I learned was from
+her seminar. She's hilarious, gives a lot of time to work on the 1800 project, and is
+a phenomenal lecturer. It's obvious she cares a lot about her students. My friend and I
+are taking her for CS3100 next semester. Best professor I've had at Northeastern.
+
+[Review 3] Course: CS1802 | Quality: 5.0 | Difficulty: 1.0 | Date: Apr 26, 2026
+Attendance: Not Mandatory | Would Take Again: Yes | Grade: B+
+Recitation for cs1800 is extremely important to go to. Sucks that they often seem to be
+during lunchtime. No mandatory anything, no grading (it's a recitation for cs1800), and
+the topics covered are often identical to what will be on the quiz.
+
+[Review 4] Course: CS3500 | Quality: 4.0 | Difficulty: 3.0 | Date: Dec 22, 2025
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: B+
+Tags: Clear grading criteria, Lots of homework, Accessible outside class
+She's an amazing professor and she generally reviews regrade requests upon request. She
+can be a little aggressive at times, but she really does care about her students. GO TO
+LECTURES!!! My only regret is not going to lectures and cramming before tests. This class
+can be really easy but it depends all on you. Make sure you choose your partner for hw.
+
+[Review 5] Course: CS3500 | Quality: 4.0 | Difficulty: 5.0 | Date: Dec 17, 2025
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: Rather not say
+Tags: Tough grader, Lots of homework, Accessible outside class
+She explains concepts clearly and is accessible to students, responding to emails in a
+timely manner. The grading policies are strict, and some assignment instructions are
+super vague. This version of the course required a heavy workload, but it's changing next
+semester. She was challenging but you'll learn a lot from her for any course.
+
+[Review 6] Course: CS3500 | Quality: 2.0 | Difficulty: 3.0 | Date: Dec 16, 2025
+For Credit: Yes | Attendance: Not Mandatory | Grade: A
+Tags: Tough grader, Extra credit, Lots of homework
+The professor has her flaws, but does okay to explain the content. The problem is the
+content is quite useless when you think about it. We spend excessive time analyzing
+design patterns that are unlikely to show up in a real SWE role. Across my past 3
+internships and 2 upcoming ones I doubt I would need any of it. I wish we focused on DS
+instead.
+
+[Review 7] Course: CS3500 | Quality: 4.0 | Difficulty: 3.0 | Date: Dec 16, 2025
+For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A
+Tags: Lots of homework
+Professor Nunez is all-around a great teacher. The lectures are very helpful for
+understanding the content. There's a lot of homework, but you learn a lot from this
+class. It's not too challenging as long as you plan your time well. Definitely would take
+OOD with Nunez again.

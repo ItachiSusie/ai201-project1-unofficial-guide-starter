@@ -1,0 +1,79 @@
+PROFESSOR: Rose Sloan
+DEPARTMENT: Computer Science
+SCHOOL: Northeastern University
+SOURCE: Rate My Professors https://www.ratemyprofessors.com/professor/3053867
+
+SUMMARY
+Overall Quality: 2.1 / 5 (based on 19 ratings)
+Would Take Again: 16%
+Level of Difficulty: 3.4 / 5
+NOTE: This file contains a representative sample of reviews; the summary above are the site-wide aggregate, not an average of the reviews below.
+
+
+STUDENT REVIEWS
+
+[Review 1] Course: CS2100 | Quality: 1.0 | Difficulty: 3.0 | Date: Apr 16, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: A
+Not a great professor, took her Fall 2025. She reads off of slides, and it was just not a
+great experience. Class is easy, however I didn't feel like I learned anything without just
+reading it on the course notes.
+
+[Review 2] Course: CS2100 | Quality: 2.0 | Difficulty: 4.0 | Date: Jan 11, 2026
+For Credit: Yes | Attendance: Mandatory | Grade: B
+Professor Sloan reads off slideshows every lecture, and you'll have to learn code outside
+of class or going to the TA's. The lectures are insanely boring but showing up for the
+attendance grade bump was nice. The quizzes/exams were all multiple choice as well, but a
+ton of word play.
+
+[Review 3] Course: CS2100 | Quality: 3.0 | Difficulty: 2.0 | Date: Jan 7, 2026
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A
+Rose Sloan is not bad. Rose Sloan is not good. Rose Sloan is just Rose Sloan. Rose Sloan
+just "is". She merely "exists". She makes jokes that are a decent attempt at humor, I
+appreciate the effort. On the more positive side, she is quite responsive to emails and
+gave me extensions for assignments so this is a positive and helpful side of her.
+
+[Review 4] Course: CS2100 | Quality: 1.0 | Difficulty: 3.0 | Date: Dec 12, 2025
+For Credit: Yes | Attendance: Not Mandatory | Grade: A
+Did I learn anything from her this year? No. I didn't. She didn't respond to my emails the
+first two weeks of class about issues with submitting homework. Homeworks are a mess and
+tbh hard to understand. Awkward and randomly giggles to herself during lecture and overall
+just doesn't teach. Great slide show reader though.
+
+[Review 5] Course: CS2100 | Quality: 1.0 | Difficulty: 4.0 | Date: Dec 11, 2025
+For Credit: Yes | Attendance: Mandatory | Grade: Not sure yet
+Tags: Participation matters, Lots of homework, Graded by few things
+I don't think I've ever encountered a professor that reads off the slides as much as Rose
+Sloan does. She absolutely doesn't teach at all. She'll also just randomly awkwardly start
+laughing at her code. The grading system in this class is just messed up and has no space
+for leniency. Homework is terribly made and doesn't even work 99% of the time.
+
+[Review 6] Course: CS2100 | Quality: 2.0 | Difficulty: 4.0 | Date: Dec 10, 2025
+For Credit: Yes | Attendance: Mandatory | Grade: Not sure yet
+Tags: Participation matters
+Lectures were boring but attendance is mandatory. The hw was okay at best. Not impossible,
+but definitely needed to put in a lot of time. The quizzes were much harder than practice,
+though.
+
+[Review 7] Course: CS2100 | Quality: 4.0 | Difficulty: 2.0 | Date: Dec 9, 2025
+For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A
+Homework is harder but the class is pretty easy. Maybe it is the new curriculum, but it
+kinda sets you up to do good. There's four quizzes, and they are pretty easy.
+
+[Review 8] Course: CS2100 | Quality: 3.0 | Difficulty: 3.0 | Date: Nov 23, 2025
+For Credit: Yes | Attendance: Not Mandatory | Grade: A+
+Tags: Lots of homework, Caring, Lecture heavy
+You can tell she cares about teaching, but she is just so boring. Most lectures the
+challenge is not understanding the material, but paying attention.
+
+[Review 9] Course: CS2510 | Quality: 2.0 | Difficulty: 2.0 | Date: Nov 20, 2025
+For Credit: Yes | Attendance: Mandatory | Grade: A+
+Extremely boring lectures; homework+labs are borderline a whole other class since the
+homework and lectures are completely unrelated. Grading is lenient, she is nice and answers
+questions, but I've taught myself pretty much everything from reading notes.
+
+[Review 10] Course: CS2510 | Quality: 2.0 | Difficulty: 3.0 | Date: Nov 19, 2025
+For Credit: Yes | Attendance: Mandatory | Grade: B
+Tags: Participation matters
+Taking the class right now finishing off semester. Lectures are simple, quizzes are simple.
+Does not prepare you for the homework, TAs in lab carry her. Attendance is mandatory, but
+ain't no one want to show up for those long and tedious classes.
