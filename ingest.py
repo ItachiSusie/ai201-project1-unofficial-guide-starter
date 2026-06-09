@@ -77,8 +77,12 @@ def chunk_document(text, professor):
         piece = piece.strip()
         if not piece:  # never emit empty/whitespace-only chunks
             continue
+        # Prefix professor name so it's part of the embedded text.
+        # Without this, review chunks contain no professor name, and queries
+        # like "Which courses has Jonathan Bell taught?" match the wrong professor.
+        text_with_prefix = f"PROFESSOR: {professor}\n{piece}" if piece.startswith("[Review") else piece
         chunks.append({
-            "text": piece,
+            "text": text_with_prefix,
             "professor": professor,
             "chunk_id": f"{prefix}_{counter}",
         })
