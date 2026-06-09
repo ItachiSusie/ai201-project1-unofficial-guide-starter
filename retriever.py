@@ -91,25 +91,3 @@ def retrieve(query, n_results=N_RESULTS):
           retrieve_infos.append(chunk)
 
     return retrieve_infos
-
-def main():
-    test = {
-         "Q1": "Who teaches CS3650?",
-  "Q3": "How is Professor Alvaro Monge rated?",
-  "Q5": "Which courses has Jonathan Bell taught?",
-    "Q2": "Who are the three highest rated CS professors at Northeastern?",
-  "Q4": "What is the average rating across Kaan Onarlioglu's review comments?",
-
-    }
-    for s in test:
-        retrieve_infos = retrieve(test[s], 5)
-        print("============question", test[s])
-        print("find info", len(retrieve_infos))
-        for info in retrieve_infos:
-            print('--------------------')
-            print(info)
-            print("-----------------------")
-    print("==============end testing")
-
-
-main()
